@@ -25,4 +25,4 @@ sudo apt install freerdp2-x11
 Run the script with Python 3:
 Bash
 
-python3 smb_brute.py
+python3 smb.py
